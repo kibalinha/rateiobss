@@ -1,0 +1,8 @@
+{
+  "name": "ShopRateio",
+  "description": "Plataforma inteligente para rateio de despesas de água, luz e gás em shopping centers, com suporte PWA e modo offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
